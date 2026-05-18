@@ -6,6 +6,8 @@ export const metadata: Metadata = {
   description: "Tiny missions. Big office mischief.",
 }
 
+
+
 export default function RootLayout({
   children,
 }: Readonly<{
